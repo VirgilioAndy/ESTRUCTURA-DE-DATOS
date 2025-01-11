@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\bin\Debug\net9.0\practico.exe
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\bin\Debug\net9.0\practico.deps.json
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\bin\Debug\net9.0\practico.runtimeconfig.json
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\bin\Debug\net9.0\practico.dll
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\bin\Debug\net9.0\practico.pdb
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\obj\Debug\net9.0\practico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\obj\Debug\net9.0\practico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\obj\Debug\net9.0\practico.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\obj\Debug\net9.0\practico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\obj\Debug\net9.0\practico.sourcelink.json
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\obj\Debug\net9.0\practico.dll
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\obj\Debug\net9.0\refint\practico.dll
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\obj\Debug\net9.0\practico.pdb
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\obj\Debug\net9.0\practico.genruntimeconfig.cache
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\practico\obj\Debug\net9.0\ref\practico.dll

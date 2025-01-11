@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Usuario\\Documents\\ESTRUCTURA DE DATOS\\Semana2\\Semana2.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\ESTRUCTURA DE DATOS\\practico\\practico.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Usuario\\Documents\\ESTRUCTURA DE DATOS\\Semana2\\Semana2.csproj": {
+    "C:\\Users\\Usuario\\Documents\\ESTRUCTURA DE DATOS\\practico\\practico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\Documents\\ESTRUCTURA DE DATOS\\Semana2\\Semana2.csproj",
-        "projectName": "Semana2",
-        "projectPath": "c:\\Users\\Usuario\\Documents\\ESTRUCTURA DE DATOS\\Semana2\\Semana2.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ESTRUCTURA DE DATOS\\practico\\practico.csproj",
+        "projectName": "practico",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\ESTRUCTURA DE DATOS\\practico\\practico.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\Documents\\ESTRUCTURA DE DATOS\\Semana2\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\ESTRUCTURA DE DATOS\\practico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
