@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\bin\Debug\net9.0\Semana7.2.exe
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\bin\Debug\net9.0\Semana7.2.deps.json
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\bin\Debug\net9.0\Semana7.2.runtimeconfig.json
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\bin\Debug\net9.0\Semana7.2.dll
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\bin\Debug\net9.0\Semana7.2.pdb
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\obj\Debug\net9.0\Semana7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\obj\Debug\net9.0\Semana7.2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\obj\Debug\net9.0\Semana7.2.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\obj\Debug\net9.0\Semana7.2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\obj\Debug\net9.0\Semana7.2.sourcelink.json
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\obj\Debug\net9.0\Semana7.2.dll
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\obj\Debug\net9.0\refint\Semana7.2.dll
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\obj\Debug\net9.0\Semana7.2.pdb
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\obj\Debug\net9.0\Semana7.2.genruntimeconfig.cache
+C:\Users\Usuario\Documents\ESTRUCTURA DE DATOS\Semana7.2\obj\Debug\net9.0\ref\Semana7.2.dll
